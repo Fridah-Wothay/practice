@@ -52,7 +52,7 @@ var arr = ["apple", "mango", "apple",   "orange", "mango", "mango"];
 
 
 
- // .map() creatAfter filtering it returns an array with the values that pass the filter. 
+ // .map()  creates a new array from calling a function for every array element.
 
- // .filter The filter() method creates a new array filled with elements that pass a test provided by a function.
+ // .filter reatAfter filtering it returns an array with the values that pass the filter. 
 
